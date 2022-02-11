@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+====== 
+* B.Sc. in Data Science and Engineering, Honors program, IE&M Faculty, Technion - Israel Institute of Technology, 2017
+* M.Sc. in Data Science, IE&M Faculty, Technion - Israel Institute of Technology, Converted to direct PhD track
+* Ph.D in Data Science, IE&M Faculty, Technion - Israel Institute of Technology, Direct Track
 
 Work experience
 ======
