@@ -1,7 +1,7 @@
 ---
 title: "Summer Internship"
-collection: industry
-permalink: /industry/summer_internship
+collection: experience
+permalink: /experience/summer_internship
 venue: "MSAI, Microsoft"
 date: 2021-03-01
 location: "Herzeliya, Israel"
