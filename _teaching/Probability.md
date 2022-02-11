@@ -9,4 +9,5 @@ location: "Haifa, Israel"
 ---
 
 Frontal teaching assistant for Probability, Undergraduate students (B.Sc).
-Awarded twice Technion's Excellent TA award, Technion - IIT, Faculty of IE\&M.
+\nSpring 2019, Winter 2020, Winter 2021, and Spring 2021 semesters.
+\nAwarded twice Technion's Excellent TA award, Technion - IIT, Faculty of IE\&M.
