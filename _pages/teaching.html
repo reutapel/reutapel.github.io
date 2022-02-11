@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-<h3>Industry</h3>
+<h1>Industry</h1>
 
-{% for post in site.teaching reversed %}
+{% for post in site.industry reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h3>Teaching</h3>
+<h1>Teaching</h1>
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
