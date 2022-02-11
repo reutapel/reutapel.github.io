@@ -9,4 +9,4 @@ location: "Haifa, Israel"
 ---
 
 Project advisor for design projects in machine learning, Undergraduate students (B.Sc).
-The projects were focused on natural language processing in the persuasion domain.
+\nThe projects were focused on natural language processing in the persuasion domain.
