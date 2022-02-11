@@ -1,12 +1,18 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Experience"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
+Industry
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Teaching
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
