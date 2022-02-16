@@ -2,7 +2,8 @@
 title: "Data Scientist Intern"
 collection: talks
 permalink: /talks/data_scientist_intel
-venue: "Advanced Analytics, Intel"
+type: "Advanced Analytics"
+venue: "Intel"
 date: 2017-10-01
 location: "Haifa, Israel"
 ---
