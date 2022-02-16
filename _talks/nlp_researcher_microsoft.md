@@ -3,7 +3,7 @@ title: "NLP Researcher Intern"
 collection: talks
 permalink: /talks/nlp_researcher_microsoft
 venue: "MSAI, Microsoft"
-date: 2021-07-01
+date: 2021-12-01
 location: "Herzeliya, Israel"
 ---
 
