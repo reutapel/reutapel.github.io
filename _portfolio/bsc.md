@@ -7,5 +7,6 @@ excerpt: "B.Sc. Data Science and Engineering, IE&M Faculty, Technion - Israel In
   <li>Graduated Summa Cum Laude.</li>
   <li>Awarded the Pinchas Naor Prize for outstanding achievements in Operations Research, Faculty of IE&M.</li>
 </ul>"
+date: 2013-10-01
 collection: portfolio
 ---
