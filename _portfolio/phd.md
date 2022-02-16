@@ -1,7 +1,8 @@
 ---
 title: "PhD"
 excerpt: "PhD - Direct Track, Data Science, IE&M Faculty, Technion"
-collection: portfolio/phd
+collection: portfolio
+permalink: portfolio/phd
 ---
 
 Using Machine Learning and Natural Language Processing for predicting decision making in multi-agent interactions.<br/>
