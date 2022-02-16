@@ -6,6 +6,7 @@ Advisors: Prof. Roi Reichart, Prof. Moshe Tenneholtz and Prof. Ido Erev.<br/>
 
 <h3>Honors & Awards</h3>
 Awarded The Council for Higher Education of Israel PhD scholarship for outstanding female students in the high-tech fields."
+date: 2020-07-01
 collection: portfolio
 ---
 
