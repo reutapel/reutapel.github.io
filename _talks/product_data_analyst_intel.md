@@ -4,7 +4,7 @@ collection: talks
 permalink: /talks/product_data_analyst_intel
 type: "Advanced Analytics"
 venue: "Intel"
-date: 2017-10-01
+date: 2015-07-01
 location: "Haifa, Israel"
 ---
 
