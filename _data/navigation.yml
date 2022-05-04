@@ -18,8 +18,11 @@ main:
 #   - title: "Travel or Trouble"
 #     url: /year-archive/
     
+#   - title: "Travel or Trouble"
+#     url: /cv/
+    
   - title: "Travel or Trouble"
-    url: /cv/
+    url: /my_game/
     
 #   - title: "Guide"
 #     url: /markdown/
