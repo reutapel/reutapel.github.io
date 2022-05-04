@@ -15,11 +15,11 @@ main:
   - title: "Education"
     url: /portfolio/
         
-  - title: "Travel or Trouble"
-    url: /year-archive/
+#   - title: "Travel or Trouble"
+#     url: /year-archive/
     
-#   - title: "CV"
-#     url: /cv/
+  - title: "Travel or Trouble"
+    url: /cv/
     
 #   - title: "Guide"
 #     url: /markdown/
