@@ -15,8 +15,8 @@ main:
   - title: "Education"
     url: /portfolio/
         
-  - title: "Travel or Trouble"
-    url: /year-archive/
+#   - title: "Travel or Trouble"
+#     url: /year-archive/
     
 #   - title: "CV"
 #     url: /cv/
