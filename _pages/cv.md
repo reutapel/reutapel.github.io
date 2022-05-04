@@ -8,8 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
+<p align="center">
+  <img height="70" src="/images/game_image.png" alt="Our Game" class="inline"/>
+</p>
+<p align="center" width="100%">
+  <a href="https://reutapel.github.io/"><img width="33%" src="/images/app_store_symbol.png"></a>
+  <a href="https://reutapel.github.io/"><img width="33%" src="/images/app_store_img.png"></a>
+</p>
 
-Education
+<!-- Education
 ====== 
 * B.Sc. in Data Science and Engineering, Honors program, IE&M Faculty, Technion - Israel Institute of Technology, 2017
 * M.Sc. in Data Science, IE&M Faculty, Technion - Israel Institute of Technology, Converted to direct PhD track
@@ -57,3 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
