@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Travel or Trouble"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 <p align="center">
-  <img height="70" src="/images/game_image.png" alt="Our Game" class="inline"/>
+  <img src="/images/game_graphic.png" alt="Our Game" class="inline"/>
 </p>
 <p align="center" width="100%">
   <a href="https://reutapel.github.io/"><img width="33%" src="/images/app_store_symbol.png"></a>
-  <a href="https://reutapel.github.io/"><img width="33%" src="/images/app_store_img.png"></a>
+  <a href="https://reutapel.github.io/"><img width="33%" src="/images/google_play_symbol.png"></a>
 </p>
 
 <!-- Education
