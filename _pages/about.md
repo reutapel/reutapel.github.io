@@ -14,5 +14,3 @@ I am a PhD candidate in the [IE&M Faculty](https://web.iem.technion.ac.il/site/)
 In my research, I explore the impact of verbal communication on social interactions in persuasion games and the use of language in predicting human actions in persuasion setups.
 
 I am also an NLP researcher Intern at Microsoft.
-
-![Our game!](/game_image.png)
