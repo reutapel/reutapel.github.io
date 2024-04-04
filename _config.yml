@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Reut Apel"
+title                    : "Dr. Reut Apel"
 title_separator          : "-"
 name                     : &name "Reut Apel"
 description              : &description "NLP Researcher at K health."
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Reut Apel"
+  name             : "Dr. Reut Apel"
   avatar           : "profile_Reut_Apel.png"
   bio              : "NLP Researcher at K-health"
   location         : 
