@@ -1,7 +1,7 @@
 ---
 title: "MeeQA: Natural Questions in Meeting Transcripts"
 collection: publications
-date: 2024-02-28
+date: 2023-05-15
 permalink: /publication/MeeQA-Natural-Questions-in-Meeting-Transcripts
 citation: '<b>Reut Apel</b>, Tom Braude, Amir Kantor, Eyal Kolman. "MeeQA: Natural Questions in Meeting Transcripts"'
 ---
