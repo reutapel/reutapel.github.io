@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Reut Apel"
 title_separator          : "-"
 name                     : &name "Reut Apel"
-description              : &description "PhD student at the Technion, researching Natural Language Processing."
+description              : &description "NLP Researcher at K health."
 url                      : https://reutapel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "reutapel/reutapel.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Reut Apel"
   avatar           : "profile_Reut_Apel.png"
-  bio              : "PhD Candidate at the Technion - Israel Institute of Technology\nNLP Researcher Intern at Microsoft"
+  bio              : "NLP Researcher at K-health"
   location         : 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
