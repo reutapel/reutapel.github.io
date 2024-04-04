@@ -21,8 +21,8 @@ main:
 #   - title: "Travel or Trouble"
 #     url: /cv/
     
-  - title: "Travel or Trouble"
-    url: /travel_or_trouble/
+  # - title: "Travel or Trouble"
+  #   url: /travel_or_trouble/
     
 #   - title: "Guide"
 #     url: /markdown/
