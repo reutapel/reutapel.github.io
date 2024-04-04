@@ -1,5 +1,5 @@
 ---
-title: "PhD - Direct Track (July 2020-present)"
+title: "PhD - Direct Track (July 2020-November 2022)"
 excerpt: "PhD - Direct Track, Data Science, IE&M Faculty, Technion - Israel Institute of Technology.<br/>
 Using Machine Learning and Natural Language Processing for predicting decision making in multi-agent interactions.<br/>
 Advisors: Prof. Roi Reichart, Prof. Moshe Tenneholtz and Prof. Ido Erev.<br/>
